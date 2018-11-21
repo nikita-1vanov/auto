@@ -152,9 +152,8 @@ flex-wrap: wrap;
 .bg-white {
 	background-color: white;
 	background-size: 100%;
-	padding: 20px 20px 0px 20px;
+	padding: 0 40px 0px 40px;
 	border-radius: 5px;
-	box-shadow: 0 0 15px;
 }
 
 .bg-grey {
@@ -216,6 +215,8 @@ header {
 
 form {
 	max-width: 340px;
+	box-shadow: 0 0 15px;
+	padding: 20px 20px 0 20px !important;
 }
 
 input[type="text"],[type="email"],[type="tel"]{
