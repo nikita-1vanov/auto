@@ -221,6 +221,10 @@ input[type="text"],[type="email"],[type="tel"]{
 	background: #eeeeee;
 	}
 
+footer {
+margin-top: 50px;
+}
+
 @media screen and (max-width: 1348px) {
 	.flex_centr { 
 		justify-content: center;
