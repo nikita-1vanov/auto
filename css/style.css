@@ -92,6 +92,9 @@ flex-wrap: wrap;
 	flex-basis: 70%;
 	margin-right: auto;
 } 
+.box_1 {
+padding-bottom: 100px;
+}
 
 .logo {
 	font-family: "Quite Chocolatey";
