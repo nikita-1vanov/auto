@@ -138,6 +138,8 @@ flex-wrap: wrap;
 .fon-white {
 	background-color: white;
 	background-size: 100%;
+	padding-bottom: 90px;
+    	padding-top: 40px;
 }
 
 .bg-white {
@@ -146,8 +148,6 @@ flex-wrap: wrap;
 	padding: 20px 20px 0px 20px;
 	border-radius: 5px;
 	box-shadow: 0 0 15px;
-	padding-bottom: 90px;
-    	padding-top: 40px;
 }
 
 }
